@@ -1,0 +1,11 @@
+Index: prueba.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prueba.txt b/prueba.txt
+--- a/prueba.txt	(revision 85aedb109b13365e62f281baa78a69fed8cc03ba)
++++ b/prueba.txt	(revision b8287b24d9e134ede11dfb83c6e0250a66e0dc69)
+@@ -1,1 +1,1 @@
+-hola
++hola me llamo breixo
